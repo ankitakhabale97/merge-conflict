@@ -15,7 +15,7 @@ feature1()
   //Sample Code for Feature
   }
 
-feaature2()
+feature2()
 {
   //Sample Code for Feature 2
 }
